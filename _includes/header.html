@@ -1,0 +1,16 @@
+<header>
+    <h1>{{site.title}}</h1>
+    <p>{{site.description}}</p>
+    
+    <nav role="navigation">
+        <ul>
+            {% for page in site.pages | sort 'nav_index'%}
+                {% if page.nav_index %}
+                <li>
+                    <a href="{{page.permalink}}">{{page.title}}</a>
+                </li>
+                {% endif %}
+            {% endfor %}
+	</ul>
+    </nav>
+</header>
