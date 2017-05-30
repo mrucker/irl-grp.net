@@ -1,8 +1,8 @@
 ---
 layout   : posts
-title    : Archives
-permalink: /archives/
-nav_index: 3
+title    : Archive
+permalink: /archive/
+nav_index: 2 
 ---
 
  {% for post in site.posts %}
