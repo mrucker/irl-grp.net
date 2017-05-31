@@ -10,7 +10,7 @@ nav_index: 2
    {% if post.external_url %}
    * [{{post.title}}]({{ post.external_url }})
    {% else %}
-   * [{{post.title}}]({{ post.url }})
+   * [{{post.date | date: "%b %d, %Y" }} -- {{post.title}}]({{ post.url }})
    {% endif %}
 
  {% endfor %}
