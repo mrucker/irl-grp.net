@@ -14,7 +14,7 @@ We are researches at UVA applying IRL techniques to solve problems
 
 ### Online
 
-uberconference.com/mr2an
+https://uberconference.com/mr2an
 
 ### Or subscribe to our mailing list
 
