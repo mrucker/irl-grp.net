@@ -6,14 +6,17 @@ nav_index: 1
 ---
 We are researches at UVA applying IRL techniques to solve problems
 
-###Join our meetings in person
+### Join our meetings in person
 
 + **Date**: 1st and 3rd Thursday 
-+ **Time**: 1:00 PM EST
++ **Time**: 3:30 PM EST
 + **Place**: Olsson 105
 
+### Online
 
-###Subscribe to our mailing list
+uberconference.com/mr2an
+
+### Or subscribe to our mailing list
 
 <!-- Begin MailChimp Signup Form -->
 <style type="text/css">
