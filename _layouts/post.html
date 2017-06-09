@@ -2,7 +2,9 @@
 layout: master
 ---
 <div id="post">
+ <h3> {{page.date | date: "%b %d, %Y" }} &mdash; {{page.title}} </h3>
+ 
  {{ content }}
-
+ 
  <h4> (<a href="{{page.presentation}}">download</a>) ({{page.presenter}}) </h4>
 </div>

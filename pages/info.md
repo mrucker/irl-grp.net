@@ -12,9 +12,9 @@ We are researches at UVA applying IRL techniques to solve problems
 + **Time**: 3:30 PM EST
 + **Place**: Olsson 105
 
-### Online
+### Join our meetings online
 
-https://uberconference.com/mr2an
+[https://uberconference.com/mr2an](https://uberconference.com/mr2an)
 
 ### Or subscribe to our mailing list
 
